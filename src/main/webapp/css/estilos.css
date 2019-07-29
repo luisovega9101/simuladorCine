@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+.form1 {
+	width: 70%;
+	margin: 0 auto;
+}
+.form2 {
+	width: 35%;
+	margin: 0 auto;
+}
+.zoom {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
+.error {
+	color: #ff0000;
+	font-style: italic;
+}
+.form3 {
+	width: 45%;
+	margin: 0 auto;
+}
+.form-horizontal {
+	width: 45%;
+	margin: 0 auto;
+}
+div#mapa {
+	width: 300px;
+	height:225px;
+}
